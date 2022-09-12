@@ -1,0 +1,26 @@
+
+1. Install JDK & JRE
+2. Install MAVEN_Bin
+3. Install Xampp & Create DB(capstone)
+4. Configuration System Environment Variable ----- Step_4.img
+5. Database Role Edit----------Step_5.img
+6. Lanuch Framework(Front & Backend)
+   (
+   NPM INstall: npm i
+   Front-Side:  npm start
+   Back-Side:   mvn spring-boot:run
+   )
+
+Sample Login Data
+
+-----Admin----
+Name:333
+Pass:333333
+
+-----OWNER----
+Name:222
+Pass:222222
+
+-----BORROWER----
+Name:111
+Pass:111111
