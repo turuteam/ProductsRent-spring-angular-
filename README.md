@@ -1,14 +1,6 @@
 # ProductsRent-spring-angular-
 
-Need a full stack developer to create an Ecommerce app with SpringBoot, Angular, and MySql
 
-DELIVERABLES
-MVP Due 9/8
-MVP includes working login/signup page with auth for Owners, Borrowers, Admin
-Owners can post and delete items, with picture and description
-Borrowers can borrow and return items, with picture and description
-
-Complete web app due: 9/12
 
 ADDITIONAL INFORMATION
 Deadlines:
